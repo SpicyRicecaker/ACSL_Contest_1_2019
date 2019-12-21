@@ -1,3 +1,12 @@
+/*
+Files: Main.cpp
+Name: Andy Li
+Date: 12/21/2019
+Email: awesomenessisgolden@gmail.com
+Desc: Short program that reads in input from a text file and performs transformations
+      based off of the N and P value in each line
+*/
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
